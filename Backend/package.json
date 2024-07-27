@@ -1,0 +1,19 @@
+{
+  "name": "boletoh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asim Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.19.2",
+    "firebase": "^10.12.4",
+    "firebase-admin": "^12.3.0",
+    "ws": "^8.18.0"
+  }
+}
